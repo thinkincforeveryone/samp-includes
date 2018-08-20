@@ -1,0 +1,7 @@
+{
+    "user":"thinkincforeveryone",
+    "repo":"samp-includes",
+    "dependencies" :[
+        "sampctl/pawn-stdlib",
+    ]
+}
